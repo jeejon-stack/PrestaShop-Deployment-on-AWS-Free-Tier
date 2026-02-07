@@ -1,0 +1,4 @@
+### Step 3 - update the system 
+
+- sudo apt update && sudo apt upgrade -y
+
